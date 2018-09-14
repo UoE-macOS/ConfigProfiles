@@ -14,7 +14,7 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>dockmaster.customdock</string>
+			<string>customdock</string>
 			<key>PayloadType</key>
 			<string>com.apple.dock</string>
 			<key>PayloadUUID</key>
@@ -382,7 +382,7 @@
 	<key>PayloadDisplayName</key>
 	<string>ECA Labs Default Dock</string>
 	<key>PayloadIdentifier</key>
-	<string>uk.ac.ed.eca.labs.default.dock</string>
+	<string>uk.ac.ed.eca.labs.dock.default</string>
 	<key>PayloadOrganization</key>
 	<string>University of Edinburgh</string>
 	<key>PayloadRemovalDisallowed</key>
