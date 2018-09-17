@@ -1,7 +1,7 @@
-ECA Labs Default Dock Profile
+ECA Photography Dock Profile
 =============================
 
-Adds Photoshop, Indesign, Illustrator, Word, Powerpoint and Excel to the dock, along with links to OneDrive, Office365 Email and our support pages.
+Standard Labs dock but adds Bridge, Premiere and Lightroom for photography.
 
 Jamf Pro doesn't support all the profile keys necessary to get this to work when installed from the JSS, so we deliver the profile via a package.
 
